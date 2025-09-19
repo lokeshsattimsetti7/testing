@@ -1,6 +1,6 @@
 import Image from "next/image";
 import styles from "./page.module.css";
-
+import one from "../app/OG_first.avif"
 
 
 export const Metadata = {
@@ -21,7 +21,7 @@ export const Metadata = {
     siteName: "My Shop",
     images: [
       {
-        url: "./OG_first.avif",
+        url: one,
         width: 1200,
         height: 630,
         alt: "My Shop Products",
