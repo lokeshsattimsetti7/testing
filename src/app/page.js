@@ -21,7 +21,7 @@ export const Metadata = {
     siteName: "My Shop",
     images: [
       {
-        url: one,
+        url: "https://myshop.com/OG_Original_Logo_WB_1.png",
         width: 1200,
         height: 630,
         alt: "My Shop Products",
